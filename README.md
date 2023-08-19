@@ -6,7 +6,7 @@
 🎓 &nbsp;I'm a Computer Science Student at Universitas Pendidikan Indonesia.\
 📱 &nbsp;I'm also a Mobile Development path student at Bangkit Academy 2023.
 
-<img height="394" width="700" alt="Night Coding" src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif" align="center"/>
+<img height="257" width="410" alt="Night Coding" src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif" align="center"/>
 
 ### 🛠 &nbsp;Tech Stack
 
