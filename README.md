@@ -1,12 +1,12 @@
 ## 👋 &nbsp;Hello World! My name is Rifqi Fajar
 
+<img height="257" width="410" alt="Night Coding" src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif" align="right"/>
+
 ### 🧑‍💼 &nbsp;About Me
 
 💻 &nbsp;I have interest in technologies and graphic design.\
 🎓 &nbsp;I'm a Computer Science Student at Universitas Pendidikan Indonesia.\
 📱 &nbsp;I'm also a Mobile Development path student at Bangkit Academy 2023.
-
-<img height="257" width="410" alt="Night Coding" src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif" align="center"/>
 
 ### 🛠 &nbsp;Tech Stack
 
